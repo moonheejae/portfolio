@@ -1,0 +1,12 @@
+
+✅ git
+	1. github.com
+	2. 저장소 repository
+	3. 비번 인증키 personal access tokens   >   
+	4. eclipse 연동 - 프로젝트 만들기
+	5. [window] - [show view] - [other] - [git] - git Repositories
+	6. [git Repositories] clone a git repository
+	7. 깃허브의  해당 git repository 코드 복사 > URI
+	
+	
+	
