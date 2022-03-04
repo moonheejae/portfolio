@@ -2,11 +2,11 @@
 ✅ git
 	1. github.com
 	2. 저장소 repository
-	3. 비번 인증키 personal access tokens   >   
+	3. 비번 인증키 personal access tokens > 인증서 붙여넣기   
 	4. eclipse 연동 - 프로젝트 만들기
 	5. [window] - [show view] - [other] - [git] - git Repositories
 	6. [git Repositories] clone a git repository
 	7. 깃허브의  해당 git repository 코드 복사 > URI
-	
-	
+	8. ctrl + n (프로젝트 선택후 우클릭)  >  [team] - [share new project]/저장소선택
+	9. [team] - [commit] commit message 적고 commit버튼 누르기 
 	
