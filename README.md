@@ -1,4 +1,4 @@
-# portfolio
+# portfolio - vino
 근면성실 개발자 문희재 포트폴리오 입니다.
 
 포트폴리오 소개용 설명 
